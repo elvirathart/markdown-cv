@@ -107,7 +107,7 @@ Working in agile sprints. Supported team by testing ‘ready for test’ tickets
 `aug. 2022`
 __Valori__
 
-*Test Automation Architect*
+### Test Automation Architect
 
 Workshop and Demo - Playwright<br />
 After working with Playwright I was asked to give a demo about my experience with Playwright and Cypress to the senior Architects of Valori. This turned into not only a demo with code snippets and showing the possibilities of Playwright but a hands-on workshop with assignment.  
@@ -116,7 +116,7 @@ After working with Playwright I was asked to give a demo about my experience wit
 `may 2022 - jul. 2022`
 __Keana__
 
-*Test Automation Engineer*
+### Test Automation Engineer
 
 Supported team of Keana, development of web based TMS by creating an end-to-end automation test using Playwright. 
 
