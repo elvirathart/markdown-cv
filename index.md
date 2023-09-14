@@ -42,7 +42,7 @@ Before being lured into IT Elvira worked as an independent fashion designer. Her
 | Fashion                    |•••| postman                      |•••|
 | Design                     |•••| Jenkins                      |•••|
 |                            |   | Jira                         |•••|
-| ***Expertises***           |   | Cucumber                     |•••|
+| ***Expertism***           |   | Cucumber                     |•••|
 | Test automation            |•••| Git                          |•••|
 | End-to-end testing        |•••|                              |   |
 | Performance & Load testing |•••| ***Liberaries & reporters*** |   |
