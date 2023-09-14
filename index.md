@@ -44,7 +44,7 @@ Before being lured into IT Elvira worked as an independent fashion designer. Her
 |                            |   | Jira                         |•••|
 | ***Expertises***           |   | Cucumber                     |•••|
 | Test automation            |•••| Git                          |•••|
-| End-to-end tessting        |•••|                              |   |
+| End-to-end testing        |•••|                              |   |
 | Performance & Load testing |•••| ***Liberaries & reporters*** |   |
 | CI                         |•••| Vue.js                       |•••|
 | API testing                |•••| Testing Library              |•••|
