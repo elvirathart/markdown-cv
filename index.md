@@ -68,10 +68,6 @@ Before being lured into IT Elvira worked as an independent fashion designer. Her
 
 ## Work Experience
 
-<p><code>aug. 2023 - sep. 2023</code>
-<strong>Emendis</strong></p>
-<h3>Test Automation Architect</h3>
-
 `aug. 2023 - sep. 2023`
 __Emendis__
 
