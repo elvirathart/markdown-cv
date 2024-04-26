@@ -123,7 +123,7 @@ __Valori__
 
 Workshop and Demo - Playwright<br />
 After working with Playwright I was asked to give a demo about my experience with Playwright and Cypress to the senior Architects of Valori. This turned into not only a demo with code snippets and showing the possibilities of Playwright but a hands-on workshop with assignment.  
-<br />
+<br /><br />
 
 `may 2022 - jul 2022`
 __Keana__
@@ -138,7 +138,7 @@ Supported team of Keana, development of web based TMS by creating an end-to-end 
 - Accessibility testing 
 - Suggest test-ability improvements to developers 
 - Tool selection: proposed to use Playwright over Cypress. <br />As POC executed part of the test in both Playwright and Cypress to show the advantages in this project
-<br />
+<br /><br />
 
 `2012 - 2017`
 __uTest__
@@ -151,7 +151,7 @@ BioKM app for online Lab data management, Official Rolex website, Mastercard, Po
 - Executing test scenarios
 - Testing of check-out systems
 - Logging of found bugs
-<br />
+<br /><br />
 
 `2013 - 2022`
 __Elvira 't Hart__
@@ -164,7 +164,7 @@ Avant-garde/luxury fashion design. ‘Wearable Drawings’ executed by laser cut
 - International sales of ready-to-wear items to multi-brand retailers and private customers.
 - Custom designs and made-to-measure for private customers
 - Participation in exhibitions, including #Techstyle MFA Boston, Amsterdam Fashionweek, World of Wearable Art New Zealand, Dutch Design Week Eindhoven.
-<br />
+<br /><br />
 
 `2013 - 2022`
 __Studio 't Hart__
