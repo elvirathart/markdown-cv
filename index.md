@@ -178,7 +178,7 @@ Mixed assignments including: illustrations, graphic design, CSS animations, web 
 - Magazine/book illustrations
 <br /><br />
 
-
+<br />
 
 ## Education
 
