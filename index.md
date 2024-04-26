@@ -10,7 +10,7 @@ output:
 <br />
 
 # Elvira 't Hart
-Test Automation Engineer
+QA Developer
 
 <br />
 
@@ -176,8 +176,6 @@ Mixed assignments including: illustrations, graphic design, CSS animations, web 
 - Illustrations for companies: logo design/ corporate identity, presentation lay-outs
 - CSS Keyframes animations
 - Magazine/book illustrations
-
-
 <br /><br />
 
 
@@ -217,7 +215,7 @@ __Foundation Course__
 
 ### Artez Arnhem
 
-<br />
+<br /><br />
 
 ## Courses
 
@@ -235,4 +233,8 @@ Testing strategies, Java, Selenium, Api testing, Postman, CI/CD Pipelines, Gherk
 
 ### Valori
 
+<br />
+<br />
+<br />
+<br />
 
