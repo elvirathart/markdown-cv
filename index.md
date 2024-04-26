@@ -5,8 +5,6 @@ output:
     pdf_document: default
 ---
 
-![SmartQA-logo alt >](./images/Logo_SmartQA.png)
-
 ![profielfoto alt <](./images/profielfoto.jpg)
 
 <br />
@@ -32,44 +30,59 @@ Before being lured into IT Elvira worked as an independent fashion designer. Her
 
 ## Knowledge & Skills
 
-| ***Languages***            |   | ***Tools***                  |   |
-| Dutch                      |•••| Playwright                   |•••|
-| English                    |•••| Cypress                      |•••|
-|                            |   | Webdriver.io                 |•••|
-| ***Industries***           |   | Selenium                     |•••|
-| IT                         |•••| Locust                       |•••|
-| Fashion                    |•••| postman                      |•••|
-| Design                     |•••| Jenkins                      |•••|
-|                            |   | Jira                         |•••|
-| ***Expertises***           |   | Cucumber                     |•••|
-| Test automation            |•••| Git                          |•••|
-| End-to-end tessting        |•••|                              |   |
-| Performance & Load testing |•••| ***Liberaries & reporters*** |   |
-| CI                         |•••| Vue.js                       |•••|
-| API testing                |•••| Testing Library              |•••|
-|                            |   | Chai                         |•••|
-| ***Programming***          |   | Mocha                        |•••|
-| HTML                       |•••| Jest                         |•••|
-| CSS                        |•••| Nyc / Istanbul               |•••|
-| JavaScript                 |•••| Coveralls                    |•••|
-| TypeScript                 |•••| Codecov                      |•••|
-| Python                     |•••|                              |   |
-| Java                       |•••| ***Applications & editors*** |   |
-| Bash                       |•••| Adobe CS Suite               |•••|
-|                            |   | Affinity Photo & Designer    |•••|
-| ***OS & Networks***        |   | Coral Draw                   |•••|
-| MacOS                      |•••| VSCode                       |•••|
-| Windows                    |•••|                              |   |
-| Linux                      |•••|                              |   |
-|                            |   |                              |   |
+| ***Languages***            | ***Tools***                  |
+| Dutch                      | Playwright                   |
+| English                    | Cypress                      |
+|                            | Webdriver.io                 |
+| ***Industries***           | Selenium                     |
+| IT                         | Locust                       |
+| Fashion                    | postman                      |
+| Design                     | Jenkins                      |
+|                            | Jira                         |
+| ***Expertises***           | Cucumber                     |
+| Test automation            | Git                          |
+| End-to-end tessting        |                              |
+| Performance & Load testing | ***Liberaries & reporters*** |
+| CI                         | Vue.js                       |
+| API testing                | Testing Library              |
+|                            | Chai                         |
+| ***Programming***          | Mocha                        |
+| HTML                       | Jest                         |
+| CSS                        | Nyc / Istanbul               |
+| JavaScript                 | Coveralls                    |
+| TypeScript                 | Codecov                      |
+| Python                     |                              |
+| Java                       | ***Applications & editors*** |
+| Bash                       | Adobe CS Suite               |
+|                            | Affinity Photo & Designer    |
+| ***OS & Networks***        | Coral Draw                   |
+| MacOS                      | VSCode                       |
+| Windows                    |                              |
+| Linux                      |                              |
+|                            |                              |
 
 <br />
 
 ## Work Experience
 
-<!-- <p><code>aug. 2023 - sep. 2023</code>
-<strong>Emendis</strong></p>
-<h3>Test Automation Architect</h3> -->
+`apr 2024`
+__SmartQA__
+
+### Workshop
+
+Organized a workshop about the use of (test)containers and databases in testing.<br />
+Docker, postgreSQL, testcontainers.
+<br /><br />
+
+`okt 2023 - ...`
+__ANWB__
+
+### QA Developer
+
+As part of the migration of the whole codebase from Javascript to Typescript, responsible for adding typing to all tests.<br />
+Cypress tests and unittests as well as adding typing to (and updating/ creating new) mocks and stubs. As a result bugs where fixed in production, fixed missing types or incomplete objects in the source code. Typing in general became more complete (because of the interaction of typing in tests and source code).<br />
+Working with: Cypress, react, jest, vitest.
+<br /><br />
 
 `aug 2023 - sep 2023`
 __Emendis__
@@ -124,8 +137,50 @@ Supported team of Keana, development of web based TMS by creating an end-to-end 
 - BDD using testing-library 
 - Accessibility testing 
 - Suggest test-ability improvements to developers 
-- Tool selection: proposed to use Playwright over Cypress. <br />As POC executed part of the test in both Playwright and Cypress to show the advantages in this project 
+- Tool selection: proposed to use Playwright over Cypress. <br />As POC executed part of the test in both Playwright and Cypress to show the advantages in this project
+<br />
+
+`2012 - 2017`
+__uTest__
+
+### Tester
+
+Participation in crowd testing and exploratory testing. Assisted in improvement of:
+BioKM app for online Lab data management, Official Rolex website, Mastercard, PowerInbox web applications, Sweet IM Toolbar
+- Exploratory testing of websites 
+- Executing test scenarios
+- Testing of check-out systems
+- Logging of found bugs
+<br />
+
+`2013 - 2022`
+__Elvira 't Hart__
+
+### Fashion Designer
+
+Avant-garde/luxury fashion design. ‘Wearable Drawings’ executed by laser cutting. Showed collections by invitation in Milan and Paris.
+- Digital drawing (vector), pattern drawing, clothing construction, laser cutting.
+- Coordinating production and deliveries.
+- International sales of ready-to-wear items to multi-brand retailers and private customers.
+- Custom designs and made-to-measure for private customers
+- Participation in exhibitions, including #Techstyle MFA Boston, Amsterdam Fashionweek, World of Wearable Art New Zealand, Dutch Design Week Eindhoven.
+<br />
+
+`2013 - 2022`
+__Studio 't Hart__
+
+### Freelance
+
+Mixed assignments including: illustrations, graphic design, CSS animations, web design and web development.
+- Teaching drawing classes, Melachton Schiebroek
+- Illustrations for companies: logo design/ corporate identity, presentation lay-outs
+- CSS Keyframes animations
+- Magazine/book illustrations
+
+
 <br /><br />
+
+
 
 ## Education
 
