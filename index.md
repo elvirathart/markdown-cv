@@ -97,9 +97,16 @@ __ANWB__
 
 ### QA Developer
 
-As part of the migration of the codebase from Javascript to Typescript, responsible for adding typing to all tests.<br />
-Cypress tests and unittests as well as adding typing to (and updating/ creating new) mocks and stubs. As a result bugs where fixed in production, fixed missing types or incomplete objects in the source code. Typing in general became more complete (because of the interaction of typing in tests and source code).<br />
-Working with: Cypress, react, jest, vitest.
+My main task was to analyse and update the test approach in Team 'Verkeer en Reisadvies'.<br />
+A great way to start and get to know the codebase was to pick up part of the migration of the codebase from JS to TS: adding typing to all tests. This included unit tests and Cypress tests as well as adding typing to mocks and stubs. As a result bugs were fixed in production, fixed missing types or incomplete objects in the source code.<br />
+After analysing the tests and coverage a new strategy was presented:<br />
+- Replacing (html) snapshot tests with proper unit or integration tests (either Storybook or Testing Library).<br />
+- Storybook was introduced as integration testing tool, after a succesfull POC, to test components in isolation.<br />
+- Cypress tests were updated and prepared for migration to Playwright: what could be tested on a lower level was moved to either integration or unit tests. Focus was brought back to the happy flows. Making running the tests more efficient, their focus more clear and ready (easier) to migrate to Playwright.<br />
+- Introduced Figma - Storybook collaboration, so the components used in production can be seen directly next to their orignial designs in the Storybook UI.<br />
+- Adding accesibility testing available in Storybook, preparing to get the application ready to conform to the WCAG standards.<br />
+After setting this up in my own team, I was asked to help out other teams within the ANWB to discuss their testing strategy.<br />
+Working with: Cypress, Playwright, Storybook, React, Testing Library, Vitest, Typescript.
 <br /><br />
 
 `aug 2023 - sep 2023`
