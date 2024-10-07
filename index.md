@@ -22,53 +22,71 @@ QA Developer
 
 ## Profile
 
-Elvira is a creative and solution-oriented professional and personality. She knows what she wants, why and can communicate this well. 
-What started out as learning HTML and CSS to be able to build her own website led to more interest in IT. Nowadays, she can program in TypeScript and Python, is familiar with load testing and has successfully completed several assignments, including one at PwC.<br />
-Her ambition is to broaden her technical knowledge and is hoping to be challenged with different assignments / problems.<br />
-Before being lured into IT Elvira worked as an independent fashion designer. Her work balanced on the border of art and fashion. She developed a way to execute designs with a laser cutter. The result: being mentioned in schoolbooks / magazines, a design worn by Lady Gaga and featured in an exhibition #Techstyle at the Museum of Fine Arts in Boston. 
+Elvira is a creative and solution-oriented professional with strong communication skills and broad technical knowledge.
+This combination makes her a great promoter for testing: Getting other people enthousiastic and conviced about the need to test, while also being able to show how to and provide the pro's and con's of different test types and tools and how to devide these thourout a project.<br />
+
+
+<br />
+Before IT caught her attention Elvira worked as an independent fashion designer. Her work balanced on the border of art and fashion. She developed a way to execute designs with a laser cutter. The result: being mentioned in schoolbooks / magazines, a design worn by Lady Gaga and featured in an exhibition #Techstyle at the Museum of Fine Arts in Boston. 
 <br /><br />
 
 ## Knowledge & Skills
 
 | ***Languages***            | ***Tools***                  |
-| Dutch                      | Playwright                   |
-| English                    | Cypress                      |
-|                            | Webdriver.io                 |
-| ***Industries***           | Selenium                     |
-| IT                         | Locust                       |
-| Fashion                    | postman                      |
-| Design                     | Jenkins                      |
-|                            | Jira                         |
-| ***Expertises***           | Cucumber                     |
-| Test automation            | Git                          |
-| End-to-end tessting        |                              |
+| Dutch                      | Storybook                    |
+| English                    | Playwright                   |
+|                            | Cypress                      |
+| ***Industries***           | Webdriver.io                 |
+| IT                         | Selenium                     |
+| Fashion                    | Locust                       |
+| Design                     | Grafana, K6                  |
+|                            | Postman                      |
+| ***Expertises***           | Jira                         |
+| Integration tests          | Git                          |
+| End-to-end testing         |                              |
 | Performance & Load testing | ***Liberaries & reporters*** |
 | CI                         | Vue.js                       |
-| API testing                | Testing Library              |
-|                            | Chai                         |
-| ***Programming***          | Mocha                        |
-| HTML                       | Jest                         |
-| CSS                        | Nyc / Istanbul               |
-| JavaScript                 | Coveralls                    |
-| TypeScript                 | Codecov                      |
+| API testing                | React                        |
+|                            | Testing Library              |
+| ***Programming***          | Vite, Vitest                 |
+| HTML                       | Chai, Mocha                  |
+| CSS                        | Jest                         |
+| JavaScript                 | Nyc, Istanbul                |
+| TypeScript                 | Coveralls / Codecov          |
 | Python                     |                              |
 | Java                       | ***Applications & editors*** |
-| Bash                       | Adobe CS Suite               |
-|                            | Affinity Photo & Designer    |
-| ***OS & Networks***        | Coral Draw                   |
-| MacOS                      | VSCode                       |
+| Kotlin                     | Adobe CS Suite               |
+| Bash                       | Affinity Photo & Designer    |
+|                            | Coral Draw                   |
+| ***OS & Networks***        | VSCode                       |
+| MacOS                      | Figma                        |
 | Windows                    |                              |
 | Linux                      |                              |
-|                            |                              |
 
 <br />
 
 ## Work Experience
 
+`aug 2024`
+__Mindlinq__
+
+### Test coordinator
+
+Mindlinq is a software platform to make youth heatlhcare more efficient and to get more insight for partnerships, healthcare providers and municipalities. Together with the project manager from Mindlinq a user test with healthcare providers was set up. From the results of the interviews useful feedback could be derived that could be communicated back to the development team to make improvements.
+<br /><br />
+
+`mar 2024`
+__SmartQA__
+
+### Meetup Storybook
+
+Organized a Meetup for test professionals and developers. Gave an introduction to integration testing with Storybook, provided a hands-on assignment with examples of testing compnonents in isolation.
+<br /><br />
+
 `apr 2024`
 __SmartQA__
 
-### Workshop
+### Workshop (test)containers
 
 Organized a workshop about the use of (test)containers and databases in testing.<br />
 Docker, postgreSQL, testcontainers.
@@ -79,7 +97,7 @@ __ANWB__
 
 ### QA Developer
 
-As part of the migration of the whole codebase from Javascript to Typescript, responsible for adding typing to all tests.<br />
+As part of the migration of the codebase from Javascript to Typescript, responsible for adding typing to all tests.<br />
 Cypress tests and unittests as well as adding typing to (and updating/ creating new) mocks and stubs. As a result bugs where fixed in production, fixed missing types or incomplete objects in the source code. Typing in general became more complete (because of the interaction of typing in tests and source code).<br />
 Working with: Cypress, react, jest, vitest.
 <br /><br />
@@ -113,7 +131,7 @@ Supported team of PwC ‘Assisted Writing’: development of system for supporti
 - Created a Load test in Locust (python) to identify performance issues (and later confirmed they were fixed). Test run on development, acceptance and production environment.
 PwC did not have the resources or time to hire a professional performance tester, so I took the opportunity to pick this up.<br />
 Prepared a Load test for the US environment including instructions on how to set up and execute the test for the US team. Was successfully executed.<br />
-Working in agile sprints. Supported team by testing ‘ready for test’ tickets for every release. Responsible for release notes. 
+Working in agile sprints. Supported team by testing ‘ready for test’ tickets for every release. Responsible for release notes, which I automated as quickly as possible. 
 <br /><br />
 
 `aug 2022`
