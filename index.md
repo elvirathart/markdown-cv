@@ -23,7 +23,7 @@ QA Developer
 ## Profile
 
 Elvira is a creative and solution-oriented professional with strong communication skills and broad technical knowledge.
-This combination makes her a great promoter: Getting other people enthousiastic and convinced about the importance of testing, while also being able to show how to and provide the pro's and con's of different test types and tools and how to devide these throughout a project.<br />
+This combination makes her a great promoter: Getting other people enthousiastic and convinced about the importance of testing, while also being able to show how to and provide the pro's and con's of different test types and tools and how to divide these throughout a project.<br />
 
 
 <br />
