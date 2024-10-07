@@ -18,7 +18,7 @@ QA Developer
 
 | 28-06-1988        | Solution-oriented     | Programming    |
 | Nieuwegein        | Creative              | Design         |
-|                   |                       | Fashion        |
+
 
 ## Profile
 
@@ -70,7 +70,7 @@ Before IT caught her attention Elvira worked as an independent fashion designer.
 `aug 2024`
 __Mindlinq__
 
-### Test coordinator
+### Test Coordinator
 
 Mindlinq is a software platform to make youth heatlhcare more efficient and to get more insight for partnerships, healthcare providers and municipalities. 
 A usertest was set up together with the project manager to interview healthcare providers. From the results useful feedback was derived and communicated back to the development team to make improvements.
@@ -105,11 +105,13 @@ After analysing all tests and coverage a new strategy was presented:<br />
 - Storybook was introduced as integration testing tool, after a succesfull POC, to test components in isolation.<br />
 - Cypress tests were updated and prepared for migration to Playwright: what could be tested on a lower level was moved to either integration or unit tests. Focus was brought back to the happy flows, making running the tests more efficient, their focus more clear and ready (easier) to migrate to Playwright.<br />
 - Introduced Figma - Storybook collaboration, so the components used in production can be seen directly next to their orignial designs in the Storybook UI.<br />
-- Adding accesibility testing available in Storybook, preparing to get the application ready to conform to the WCAG standards.<br />
+- Adding accesibility testing available in Storybook, preparing to get the application ready to conform to the WCAG standards.
 <br />
+<br />
+
 After setting this up in my own team, I was asked to present my views on testing to the Frontend Chapter and help out other teams within the ANWB to discuss their testing strategy.<br />
 <br />
-Working with: Cypress, Playwright, Storybook, React, Testing Library, Vitest, Typescript, K6.
+Cypress, Playwright, Storybook, React, Testing Library, Vitest, Typescript, K6.
 <br /><br />
 
 `aug 2023 - sep 2023`
