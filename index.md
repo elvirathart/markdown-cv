@@ -23,7 +23,7 @@ QA Developer
 ## Profile
 
 Elvira is a creative and solution-oriented professional with strong communication skills and broad technical knowledge.
-This combination makes her a great promoter for testing: Getting other people enthousiastic and conviced about the need to test, while also being able to show how to and provide the pro's and con's of different test types and tools and how to devide these throughout a project.<br />
+This combination makes her a great promoter: Getting other people enthousiastic and convinced about the need to test, while also being able to show how to and provide the pro's and con's of different test types and tools and how to devide these throughout a project.<br />
 
 
 <br />
@@ -72,7 +72,7 @@ __Mindlinq__
 
 ### Test coordinator
 
-Mindlinq is a software platform to make youth heatlhcare more efficient and to get more insight for partnerships, healthcare providers and municipalities. Together with the project manager from Mindlinq a user test with healthcare providers was set up. From the results of the interviews useful feedback could be derived that could be communicated back to the development team to make improvements.
+Mindlinq is a software platform to make youth heatlhcare more efficient and to get more insight for partnerships, healthcare providers and municipalities. Together with the project manager from Mindlinq a usertest with healthcare providers was set up. From the results of the interviews useful feedback was derived that was communicated back to the development team to make improvements.
 <br /><br />
 
 `mar 2024`
@@ -98,14 +98,15 @@ __ANWB__
 ### QA Developer
 
 My main task was to analyse and update the test approach in Team 'Verkeer en Reisadvies'.<br />
-A great way to start and get to know the codebase was to pick up part of the migration of the codebase from JS to TS: adding typing to all tests. This included unit tests and Cypress tests as well as adding typing to mocks and stubs. As a result bugs were fixed in production, fixed missing types or incomplete objects in the source code.<br />
+A great way to start and get to know the codebase was to pick up part of the migration from JS to TS: adding typing to all tests. This included unit tests and Cypress tests as well as adding typing to mocks and stubs. As a result bugs were fixed in production, fixed missing types or incomplete objects in the source code.<br />
 After analysing the tests and coverage a new strategy was presented:<br />
 - Replacing (html) snapshot tests with proper unit or integration tests (either Storybook or Testing Library).<br />
 - Storybook was introduced as integration testing tool, after a succesfull POC, to test components in isolation.<br />
 - Cypress tests were updated and prepared for migration to Playwright: what could be tested on a lower level was moved to either integration or unit tests. Focus was brought back to the happy flows. Making running the tests more efficient, their focus more clear and ready (easier) to migrate to Playwright.<br />
 - Introduced Figma - Storybook collaboration, so the components used in production can be seen directly next to their orignial designs in the Storybook UI.<br />
 - Adding accesibility testing available in Storybook, preparing to get the application ready to conform to the WCAG standards.<br />
-After setting this up in my own team, I was asked to help out other teams within the ANWB to discuss their testing strategy.<br />
+After setting this up in my own team, I was asked to present my views on testing to the Frontend Chapter and help out other teams within the ANWB to discuss their testing strategy.<br />
+
 Working with: Cypress, Playwright, Storybook, React, Testing Library, Vitest, Typescript.
 <br /><br />
 
