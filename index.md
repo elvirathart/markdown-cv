@@ -14,7 +14,7 @@ QA Developer
 
 <br />
 
-| ***Information*** | ***Characteristics*** |***Interests*** |
+| ***Information*** | ***Characteristics*** | ***Interests*** |
 
 | 28-06-1988        | Solution-oriented     | Programming    |
 | Nieuwegein        | Creative              | Design         |
@@ -98,7 +98,7 @@ __ANWB__
 
 ### QA Developer
 
-My main task was to analyse and update the test approach in Team 'Verkeer en Reisadvies'.<br />
+My main task was to analyse and update the test approach in team 'Verkeer en Reisadvies', responsible for planning routes and providing traffic information.<br />
 A great way to start and get to know the codebase was to pick up part of the migration from JS to TS: adding typing to all tests. This included unit tests and Cypress tests, as well as adding typing to mocks and stubs. As a result bugs were fixed in production, fixed missing types or incomplete objects in the source code.<br />
 After analysing all tests and coverage a new strategy was presented:<br />
 - Replacing (html) snapshot tests with proper unit or integration tests (either Storybook or Testing Library).<br />
@@ -143,7 +143,7 @@ Supported team of PwC ‘Assisted Writing’: development of system for supporti
 - Created a Load test in Locust (python) to identify performance issues (and later confirmed they were fixed). Test run on development, acceptance and production environment.
 PwC did not have the resources or time to hire a professional performance tester, so I took the opportunity to pick this up.<br />
 Prepared a Load test for the US environment including instructions on how to set up and execute the test for the US team. Was successfully executed.<br />
-Working in agile sprints. Supported team by testing ‘ready for test’ tickets for every release. Responsible for release notes, which I automated as quickly as possible. 
+Working in agile sprints. Supported team by testing ‘ready for test’ tickets for every release. Responsible for release notes - which I automated as quickly as possible. 
 <br /><br />
 
 `aug 2022`
