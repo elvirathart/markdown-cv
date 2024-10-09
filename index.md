@@ -68,7 +68,7 @@ Before IT caught her attention Elvira worked as an independent fashion designer.
 ## Work Experience
 
 `aug 2024`
-__Mindlinq__
+__Mindlinq via SmartQA__
 
 ### Test Coordinator
 
@@ -94,7 +94,7 @@ Docker, postgreSQL, testcontainers.
 <br /><br />
 
 `okt 2023 - ...`
-__ANWB__
+__ANWB via SmartQA__
 
 ### QA Developer
 
@@ -115,7 +115,7 @@ Cypress, Playwright, Storybook, React, Testing Library, Vitest, Typescript, K6.
 <br /><br />
 
 `aug 2023 - sep 2023`
-__Emendis__
+__Emendis via SmartQA__
 
 ### Test Automation Architect
 
@@ -124,7 +124,7 @@ Management needs an overview of test coverage across projects. Solution needs to
 <br /><br />
 
 `jul 2022 - sep 2023`
-__PwC__
+__PwC via Valori__
 
 ### Test Automation Engineer
 
@@ -156,7 +156,7 @@ After working with Playwright I was asked to give a demo about my experience wit
 <br /><br />
 
 `may 2022 - jul 2022`
-__Keana__
+__Keana via Valori__
 
 ### Test Automation Engineer
 
